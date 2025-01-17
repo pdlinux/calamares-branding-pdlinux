@@ -10,7 +10,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  default
+componentName:  pdlinux
 
 
 ### WELCOME / OVERALL WORDING
@@ -164,11 +164,11 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    # productBanner:       "banner.png"
-    # productIcon:         "squid.png"
+    productBanner:       "banner.png"
+    productIcon:         "squid.png"
     productLogo:         "logo.png"
-    # productWallpaper:    "wallpaper.png"
-    productWelcome:      "carli-2.svg"
+    productWallpaper:    "wallpaper.png"
+    productWelcome:      "welcome.svg"
 
 # Colors for text and background components.
 #
