@@ -125,8 +125,8 @@ navigation: widget
 strings:
     productName:         PdLinux
     shortProductName:    PdLinux
-    version:             2023.03.1
-    shortVersion:        2023.03
+    version:             2025.01.1
+    shortVersion:        2025.01
     versionedName:       PdLinux
     #shortVersionedName: PdLinux
     bootloaderEntryName: PdLinux
