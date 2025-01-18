@@ -90,4 +90,13 @@ Presentation
     ImageSlide {
         src: "slide6.png"
     }
+    ImageSlide {
+        src: "slide7.png"
+    }
+    ImageSlide {
+        src: "slide8.png"
+    }
+    ImageSlide {
+        src: "slide9.png"
+    }
 }
